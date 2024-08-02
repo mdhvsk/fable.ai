@@ -9,7 +9,7 @@ const landing = (props: Props) => {
     return (
         <div className="min-h-screen bg-white">
             <Head>
-                <title>EduGuide - Explore your child's performance</title>
+                <title>EduGuide - Explore your student's performance</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
